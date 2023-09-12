@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SendiawanMuljono
-- 👀 I’m interested in Computer Science, which I majored right now in Bina Nusantara University
+- 👀 I’m interested to be a Backend Developer
 - 📫 How to reach me:
 - Email: sendiawanmuljono@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sendiawan-muljono/
 - Line ID: sendiawanmulyono
 - Instagram: sendiawanmuljono
 
