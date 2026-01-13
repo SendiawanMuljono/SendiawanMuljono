@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SendiawanMuljono
-- 👀 I’m interested to be a Software Engineer
+- 👀 I’m a Software Engineer with 2+ years of experience
 - 📫 How to reach me:
 - Email: sendiawanmuljono@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sendiawan-muljono/
